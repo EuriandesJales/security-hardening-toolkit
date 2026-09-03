@@ -1,0 +1,11 @@
+[2026-05-10 03:39:42] [ERRO] Script encerrado com código de saída: 1
+============================================================
+ Security Suite v2.0 — Log de Execução
+ Início : 2026-05-10 03:39:42
+ Usuário: euriandes
+ Host   : cachyos
+ Log    : /home/euriandes/Documentos/Estudos/security-hardening-toolkit/src/security_suite_2026-05-10_03-39-42.log
+============================================================
+[2026-05-10 03:39:42] [ERRO]   Este script precisa ser executado como root (use: sudo ./security-suite.sh)
+
+[2026-05-10 03:39:42] [INFO] Log salvo em: /home/euriandes/Documentos/Estudos/security-hardening-toolkit/src/security_suite_2026-05-10_03-39-42.log
